@@ -1,2 +1,2 @@
-# JULIO
-Json Using fLex bIsOn (JULIO)
+# JSON
+JSON Parser Using Bison and Flex
